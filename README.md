@@ -1,2 +1,5 @@
 # Criando-DAO
-Este repositório foi criado com o intuito de como criar uma DAO, curso DIO
+
+Criando uma DAO
+O objetivo desse repositório é a entrega de um projeto prático do curso de "Web3 Fundamentals" da DIO.
+
